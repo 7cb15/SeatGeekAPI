@@ -1,3 +1,3 @@
 # SeatGeekAPI
 
-### Python scrip for querying the Seat Geek API to get events data for NYC, DC, and SF
+#### Python script for querying the Seat Geek API to get events data by city and date range.
